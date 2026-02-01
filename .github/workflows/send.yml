@@ -1,4 +1,4 @@
-name: CSV to Discord
+name: Test envoie toutes les 2 minutes
 
 on:
   schedule:
