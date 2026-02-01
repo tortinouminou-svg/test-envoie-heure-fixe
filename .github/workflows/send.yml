@@ -1,4 +1,4 @@
-name: Test envoie toutes les 2 minutes
+name: Test envoie toutes les 5 minutes
 
 on:
   schedule:
